@@ -114,7 +114,7 @@ https://github.com/nomedeusuario/notas-atletas
   "name": "notas-atletas",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js"
+    "start": "node notas-atletas.js"
   }
 }
 ```

@@ -2,10 +2,10 @@
   "name": "notas-atletas",
   "version": "1.0.0",
   "description": "Projeto de certificação 1 - Pontuação dos atletas DEVstart",
-  "main": "index.js",
+  "main": "notas-atletas.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node notas-atletas.js"
   },
   "repository": {
     "type": "git",
